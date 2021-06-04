@@ -5,3 +5,11 @@
 # All of this made me think that maybe the NCAA, on average, has larger point differentials in championship games than in professional football. Also, maybe it was possible the the NCAA had more blowout championship games than the NFL. So I wanted to test these hypotheses by gathering Super Bowl and NCAA championship data.
 
 ## Load libraries
+
+
+```{r}
+.libPaths('D:/R_3.6.1_libraries') #change library path
+library(rvest) # For web scraping
+library(tidyverse) # For Data cleaning
+librar
+```
